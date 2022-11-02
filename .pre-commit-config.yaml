@@ -25,15 +25,15 @@ repos:
         types: [yaml]
 
   # md formatting
-  - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.14
-    hooks:
-      - id: mdformat
-        args: ["--number"]
-        additional_dependencies:
-          - mdformat-gfm
-          - mdformat-tables
-          - mdformat_frontmatter
+  # - repo: https://github.com/executablebooks/mdformat
+  #   rev: 0.7.14
+  #   hooks:
+  #     - id: mdformat
+  #       args: ["--number"]
+  #       additional_dependencies:
+  #         - mdformat-gfm
+  #         - mdformat-tables
+  #         - mdformat_frontmatter
           # - mdformat-toc
           # - mdformat-black
 
