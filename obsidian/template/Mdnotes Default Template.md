@@ -1,6 +1,6 @@
 {{title}}
 
-![[%(metadataFileName)#Metadata]]
+!\[\[%(metadataFileName)#Metadata\]\]
 
 Other files:
 {{mdnotesFileName}}
@@ -11,13 +11,14 @@ Other files:
 {{localLibrary}}
 {{cloudLibrary}}
 
-|  Item        |  Content  |
-|:-------------|:----------|
-|  Motivation  |           |
-|  Innovation  |           |
-|  Method      |           |
-|  Ref         |           |
-|  Conclusion  |           |  
+| Item       | Content |
+| :--------- | :------ |
+| Motivation |         |
+| Innovation |         |
+| Method     |         |
+| Ref        |         |
+| Conclusion |         |
 
 ## Other
-- 
+
+-

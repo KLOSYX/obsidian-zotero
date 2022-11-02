@@ -265,4 +265,3 @@ module.exports = class ProxyGithub extends Plugin {
         app.unRegedit()
     }
 }
-
