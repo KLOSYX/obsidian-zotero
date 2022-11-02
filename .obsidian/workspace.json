@@ -11,8 +11,12 @@
             "id": "6273d19664b78b7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md"
+              }
             }
           },
           {
@@ -147,8 +155,8 @@
   },
   "active": "6273d19664b78b7c",
   "lastOpenFiles": [
-    "obsidian/zhangERNIEEnhancedLanguage2019.md",
     "obsidian/zhangERNIEEnhancedLanguage2019-zotero.md",
+    "obsidian/zhangERNIEEnhancedLanguage2019.md",
     "obsidian/template/Mdnotes Default Template.md",
     "obsidian/template/Zotero Note Template.md",
     "2022-11-02.md"

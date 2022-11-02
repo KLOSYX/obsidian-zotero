@@ -1,5 +1,6 @@
 {
   "newFileLocation": "root",
   "newFileFolderPath": "obsidian/assets",
-  "attachmentFolderPath": "obsidian/assets"
+  "attachmentFolderPath": "obsidian/assets",
+  "useMarkdownLinks": false
 }
