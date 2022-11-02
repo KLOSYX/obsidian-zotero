@@ -34,8 +34,8 @@ repos:
   #         - mdformat-gfm
   #         - mdformat-tables
   #         - mdformat_frontmatter
-          # - mdformat-toc
-          # - mdformat-black
+  # - mdformat-toc
+  # - mdformat-black
 
   # word spelling linter
   - repo: https://github.com/codespell-project/codespell

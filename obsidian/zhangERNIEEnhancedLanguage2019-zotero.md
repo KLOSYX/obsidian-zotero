@@ -24,4 +24,3 @@ Neural language representation models such as BERT pre-trained on large-scale co
 
 * [Local library](zotero://select/items/1_WQSZAQXY)
 * [Cloud library](http://zotero.org/users/8603990/items/WQSZAQXY)
-
