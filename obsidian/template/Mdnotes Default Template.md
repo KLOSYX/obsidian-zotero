@@ -11,19 +11,13 @@ Other files:
 {{localLibrary}}
 {{cloudLibrary}}
 
-## Notes
+|  Item        |  Content  |
+|:-------------|:----------|
+|  Motivation  |           |
+|  Innovation  |           |
+|  Method      |           |
+|  Ref         |           |
+|  Conclusion  |           |  
 
-### Motivation
-1. 
-
-### Inovation
-1. 
-
-### Method
-1. 
-
-### Ref
-1. 
-
-### Conclusion
-1. 
+## Other
+- 

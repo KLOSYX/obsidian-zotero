@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14d76e59cf9a1c71",
+        "id": "abf5ea21eade017b",
         "type": "tabs",
         "children": [
           {
-            "id": "45e1598bf28665f3",
+            "id": "6273d19664b78b7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,23 +118,39 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian/zhangERNIEEnhancedLanguage2019.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "e8942c4b3428fe66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe557c1703bec2fd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "45e1598bf28665f3",
+  "active": "6273d19664b78b7c",
   "lastOpenFiles": [
+    "obsidian/zhangERNIEEnhancedLanguage2019.md",
+    "obsidian/zhangERNIEEnhancedLanguage2019-zotero.md",
     "obsidian/template/Mdnotes Default Template.md",
     "obsidian/template/Zotero Note Template.md",
-    "obsidian/zhangERNIEEnhancedLanguage2019.md",
-    "obsidian/zhangERNIEEnhancedLanguage2019-zotero.md"
+    "2022-11-02.md"
   ]
 }

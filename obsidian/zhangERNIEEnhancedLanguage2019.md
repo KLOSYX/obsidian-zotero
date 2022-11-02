@@ -11,21 +11,12 @@ Other files:
 * [Local library](zotero://select/items/1_WQSZAQXY)
 * [Cloud library](http://zotero.org/users/8603990/items/WQSZAQXY)
 
-## Notes
+|   **Item**         |   **Content**                                                                                                                                                                                                                   |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Motivation     |                                                                                            1. 传统的BM缺乏显式的知识嵌入<div>2. 在BM中引入知识可以增强模型对于语义的理解</div><div>3. 在BM中引入知识可以在一些KG任务中取得更好地性能:Entity Typing/Relation Classification</div>    |
+|     Innovation     |    提出了新的训练目标,在一般的预训练目标(MLM,NSP)基础上,加入了对于实体关系embedding的预测                                                                                                                                                                        |
+|     Method         |  ![[Pasted image 20221102170802.png]]                                                                                                                                      <div>**知识embedding融合方式**:Embedding Concat + FC</div> |
+|     Ref            |                                                                                                                                                                                                                                 |
+|     Conclusion     |                                                                                                                                                                                                                                 |  
 
-### Motivation
-1. BM缺少知识的嵌入
-2. 引入知识能够加强BM对自然语言的理解
-3. 引入知识能够使得BM在实体标注(Entity Typing)/关系分类(Relation Classification)任务中取得更好的性能
-
-### Inovation
-1. 
-
-### Method
-1. 
-
-### Ref
-1. 
-
-### Conclusion
-1. 
+## Other
