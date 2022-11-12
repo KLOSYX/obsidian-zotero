@@ -1,6 +1,6 @@
 {{title}}
 
-!\[\[%(metadataFileName)#Metadata\]\]
+![[%(metadataFileName)#Metadata]]
 
 Other files:
 {{mdnotesFileName}}
