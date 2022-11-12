@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4785a36540936db9",
+        "id": "bd5132bdcd7fa6c9",
         "type": "tabs",
         "children": [
           {
-            "id": "cabf968ddc6398fc",
+            "id": "bc59fdb18162964a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/zhangMultimodalKnowledgeawareEvent2019.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64a07d5459293480",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/zhangMultimodalKnowledgeawareEvent2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/zhangMultimodalKnowledgeawareEvent2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian/zhangMultimodalKnowledgeawareEvent2019.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "cabf968ddc6398fc",
+  "active": "bc59fdb18162964a",
   "lastOpenFiles": [
-    "obsidian/zhangMultimodalKnowledgeawareEvent2019-zotero.md",
+    "虚假新闻检测.md",
+    "obsidian/singhSEMIFNDStackedEnsemble.md",
+    "obsidian/singhSEMIFNDStackedEnsemble-zotero.md",
     "obsidian/zhangMultimodalKnowledgeawareEvent2019.md",
+    "obsidian/zhangMultimodalKnowledgeawareEvent2019-zotero.md",
     "obsidian/petersKnowledgeEnhancedContextual2019.md",
     "obsidian/zhangERNIEEnhancedLanguage2019.md",
     "obsidian/template/Mdnotes Default Template.md",
     "obsidian/petersKnowledgeEnhancedContextual2019-zotero.md",
-    "README.md",
-    "obsidian/zhangERNIEEnhancedLanguage2019-zotero.md",
-    "Zhengyan Zhang.md",
-    "storage/DB7N8JXM/Image Captioning-Transforming Objects into Words.md"
+    "README.md"
   ]
 }
